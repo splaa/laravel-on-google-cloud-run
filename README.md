@@ -1,5 +1,6 @@
 
 #[Пошаговое руководство по настройке Laravel 6 в Google Cloud Run с непрерывной интеграцией](https://habr.com/ru/company/otus/blog/484738/)
+5. Добавьте полный Laravel, откройте Pull Request
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
